@@ -1,0 +1,6 @@
+{
+  "size": 1,
+  "order": 5,
+  "icon": "backshield:slot/empty_back_shield_slot",
+  "validators": ["backshield:shield"]
+}

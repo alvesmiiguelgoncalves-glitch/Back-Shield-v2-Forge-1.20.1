@@ -1,0 +1,5 @@
+{
+  "sources": [
+    { "type": "minecraft:single", "resource": "backshield:slot/empty_back_shield_slot" }
+  ]
+}
